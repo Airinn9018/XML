@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report> 
+  <Bug_name> XXXXXXXXXXXX </Bug_name>
+  <Bug_ID> 12345678 </Bug_ID>
+  <Build_number> YYYYYYYYY </Build_number>
+  <Severity> "HIGH (High/Medium/Low) or 1"</Severity>
+  <Priority> "HIGH (High/Medium/Low) or 1" </Priority>
+  <Assigned_to> Developer-X </Assigned_to>
+  <Reported_By> Your Name </Reported_By>
+  <Reported_On> Date </Reported_On>
+  <Reason> Defect </Reason>
+  <Status> "New/Open/Active (Depends on the Tool you are using)" </Status>
+  <Environment> "Windows 2003/SQL Server 2005" </Environment>
+  <Description> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</D escription>
+  <Steps_to_Reproduce>
+   "1) XXXXXXXXXXXXXXX",
+   "2) YYYYYYYYYYYYYYY",
+   "3) ZZZZZZZZZZZZZZZZ"
+  </Steps_to_Reproduce>
+ <Expected_Result> XXXXXXXXXXXXXXXXXXXXXXXXXXX </Expected_Result>
+ <Actual_results> YYYYYYYYYYYYYYYYYYYYYYYYYYYY </Actual_results>
+ <Screenshot> "link" </Screenshot>
+</Bug_report> 
